@@ -5,3 +5,4 @@ Resmindo Merupakan Aplikasi Management Restorant yang kami buat untuk memenuhi t
 10121013 - Hafiizh Alif Syahyudi
 10121029 - Alzha Asshawal
 10121035 - M. Raffi Zeinuri Misbah
+10121037 - Adhiva Deva Azhara Baika Bahri
